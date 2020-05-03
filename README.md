@@ -24,7 +24,7 @@ rich toolset
 
 - makes it very difficult to have run-time errors!
 
-### Installing
-[Ocaml](https://ocaml.org/)
+### Installing Links
+▶ [Ocaml](https://ocaml.org/)
 
-[Chez Scheme](https://cisco.github.io/ChezScheme/)
+▶ [Chez Scheme](https://cisco.github.io/ChezScheme/)
