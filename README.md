@@ -10,7 +10,7 @@ Compiler for chez scheme programming language, the compiler is written in ocaml 
 ▶ The language we shall be compiling to: x86/64 assembly
 language
 
-### why ocaml
+### Why ocaml
 - is used all over the world
 
 - is used in commercial and open source projects
